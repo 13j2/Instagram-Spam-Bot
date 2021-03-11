@@ -1,5 +1,5 @@
 #------randome joke functions using different APIs
-import requests
+import 
 import random
 def geeks():
     url = "https://geek-jokes.sameerkumar.website/api"
